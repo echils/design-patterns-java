@@ -1,18 +1,30 @@
 package com.github.pattern.factory.abs;
 
-import com.github.pattern.factory.Origin;
-import com.github.pattern.factory.Phone;
+import com.github.pattern.factory.IBasketball;
 
 /**
- * IFactory
+ * 抽象工厂
  *
  * @author echils
- * @since 2021-06-16 15:25:13
+ * @since 2020-01-02 21:39:47
  */
 public interface IFactory {
 
-    Phone apply();
+    /**
+     * 篮球
+     *
+     * @param name
+     * @return
+     */
+    IBasketball createBasketball(String name);
 
-    Origin from();
+    /**
+     * 护腕
+     *
+     * @param name
+     * @return
+     */
+    IWristband createWristbands(String name);
+
 
 }
