@@ -1,5 +1,11 @@
 package com.github.pattern.singleton;
 
+/**
+ * 单例模式6-（双重校验，线程安全）
+ *
+ * @author echils
+ * @since 2020-01-05 21:31:01
+ */
 public class Singleton6 {
 
     // 使变量更改后迅速更改到缓存

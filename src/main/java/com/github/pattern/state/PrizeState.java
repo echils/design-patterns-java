@@ -2,17 +2,16 @@ package com.github.pattern.state;
 
 
 /**
- * DisplayState
+ * 中奖状态
  *
  * @author echils
  * @since 2020-01-18 12:23:20
  */
-public class DisplayState implements State {
+public class PrizeState implements State {
 
     private Activity activity;
 
-
-    public DisplayState(Activity activity) {
+    public PrizeState(Activity activity) {
         this.activity = activity;
     }
 
@@ -31,7 +30,7 @@ public class DisplayState implements State {
         int count = activity.getCount();
         count -= 1;
         if (count == 0) {
-            activity.setState(activity.getNotHasAwardState());
+            activity.setState(activity.getEndState());
         } else {
             activity.setState(activity.getSubmitTicketState());
         }

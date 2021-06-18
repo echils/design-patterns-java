@@ -2,20 +2,18 @@ package com.github.pattern.state;
 
 
 /**
- * NotDisplayState
+ * 没有中奖状态
  *
  * @author echils
  * @since 2020-01-18 12:23:20
  */
-public class NotDisplayState implements State {
+public class NotPrizeState implements State {
 
     private Activity activity;
 
-
-    public NotDisplayState(Activity activity) {
+    public NotPrizeState(Activity activity) {
         this.activity = activity;
     }
-
 
     @Override
     public void submitTicket() {

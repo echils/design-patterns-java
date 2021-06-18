@@ -4,7 +4,7 @@ package com.github.pattern.state;
 import java.util.Random;
 
 /**
- * RaffleState
+ * 抽奖进行中状态
  *
  * @author echils
  * @since 2020-01-18 12:23:20
@@ -12,7 +12,6 @@ import java.util.Random;
 public class RaffleState implements State {
 
     private Activity activity;
-
 
     public RaffleState(Activity activity) {
         this.activity = activity;
@@ -26,11 +25,11 @@ public class RaffleState implements State {
     @Override
     public void raffle() {
         if (new Random().nextBoolean()) {
-            activity.setState(activity.getDisplayState());
+            activity.setState(activity.getPrizeState());
         } else {
-            activity.setState(activity.getNotDisplayState());
+            activity.setState(activity.getNotPrizeState());
         }
-        System.out.println("谢谢抽奖，抽奖结果稍后公布");
+        System.out.println("抽奖机指针开始转动，等待指针停止");
     }
 
     @Override

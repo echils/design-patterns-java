@@ -1,24 +1,20 @@
 package com.github.pattern.responsibility;
 
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 /**
- * PurchaseRequest
+ * 购买审批单
  *
  * @author echils
  * @since 2020-01-18 15:15:15
  */
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class PurchaseRequest {
 
     private int price;
 
-    public PurchaseRequest(int price) {
-        this.price = price;
-    }
-
-    public int getPrice() {
-        return price;
-    }
-
-    public void setPrice(int price) {
-        this.price = price;
-    }
 }

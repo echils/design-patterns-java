@@ -1,7 +1,7 @@
 package com.github.pattern.visitor;
 
 /**
- * Visitor
+ * 抽象访问者
  *
  * @author echils
  * @since 2020-01-02 23:32:03
@@ -14,8 +14,12 @@ public abstract class Visitor {
         this.name = name;
     }
 
-    public abstract void visit(CustomSystem system);
+    public abstract void visit(App app);
 
+    /**
+     * 评价
+     * @param name
+     */
     public abstract void evaluate(String name);
 
     public String getName() {

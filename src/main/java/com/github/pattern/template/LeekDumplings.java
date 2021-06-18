@@ -1,12 +1,13 @@
 package com.github.pattern.template;
 
 /**
- * LeekDumplings
+ * 韭菜饺子
  *
  * @author echils
  * @since 2020-01-01 17:25:45
  */
 public class LeekDumplings extends Dumplings {
+
     @Override
     public void stuff() {
         System.out.println("做韭菜馅儿");

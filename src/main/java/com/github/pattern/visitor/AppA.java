@@ -1,14 +1,14 @@
 package com.github.pattern.visitor;
 
 /**
- * HikvisionSystem
+ * 系统A
  *
  * @author echils
  * @since 2020-01-02 23:38:25
  */
-public class HikvisionSystem extends CustomSystem {
+public class AppA extends App {
 
-    public HikvisionSystem(String name) {
+    public AppA(String name) {
         super(name);
     }
 

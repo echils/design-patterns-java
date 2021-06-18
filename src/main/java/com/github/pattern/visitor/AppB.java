@@ -1,14 +1,14 @@
 package com.github.pattern.visitor;
 
 /**
- * AseitSystem
+ * 应用B
  *
  * @author echils
  * @since 2020-01-02 23:35:58
  */
-public class AseitSystem extends CustomSystem {
+public class AppB extends App {
 
-    public AseitSystem(String name) {
+    public AppB(String name) {
         super(name);
     }
 

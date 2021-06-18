@@ -1,6 +1,11 @@
 package com.github.pattern.singleton;
 
-//通过静态内部类来实现单例模式
+/**
+ * 单例模式7-（静态内部类，线程安全）
+ *
+ * @author echils
+ * @since 2020-01-05 21:31:01
+ */
 public class Singleton7 {
 
     private Singleton7() {

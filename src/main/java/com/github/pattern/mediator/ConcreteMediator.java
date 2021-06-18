@@ -6,7 +6,7 @@ import java.util.Map;
 /**
  * 具体中介类（直播间）
  *
- * @author jiaweit
+ * @author echils
  * @since 2021-06-17 17:25:13
  */
 public class ConcreteMediator implements Mediator {

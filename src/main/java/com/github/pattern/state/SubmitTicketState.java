@@ -1,8 +1,7 @@
 package com.github.pattern.state;
 
-
 /**
- * SubmitTicketState
+ * 提交抽奖券状态
  *
  * @author echils
  * @since 2020-01-18 12:23:20
@@ -10,7 +9,6 @@ package com.github.pattern.state;
 public class SubmitTicketState implements State {
 
     private Activity activity;
-
 
     public SubmitTicketState(Activity activity) {
         this.activity = activity;

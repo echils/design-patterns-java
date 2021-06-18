@@ -24,8 +24,7 @@ public class Dunk {
     }
 
     public void display() {
-        System.out.println("name:" + name);
-        System.out.println("color:" + color);
+        System.out.println(toString());
         flyBehavior.fly();
         swimBehavior.swim();
     }
@@ -60,5 +59,13 @@ public class Dunk {
 
     public void setSwimBehavior(ISwimBehavior swimBehavior) {
         this.swimBehavior = swimBehavior;
+    }
+
+    @Override
+    public String toString() {
+        return "Dunk{" +
+                "name='" + name + '\'' +
+                ", color='" + color + '\'' +
+                '}';
     }
 }
