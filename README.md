@@ -8,7 +8,7 @@ Learn and summarize design patterns in Java
   </a>
 </p>
 
-#Design Patterns
+# Design Patterns
 - **创建型模式**：[单例模式](src/main/java/com/github/pattern/singleton)、[工厂模式](src/main/java/com/github/pattern/factory)、
                  [抽象工厂模式](src/main/java/com/github/pattern/factory/abs)、[原型模式](src/main/java/com/github/pattern/prototype)、
                  [建造者模式](src/main/java/com/github/pattern/builder)
@@ -20,10 +20,10 @@ Learn and summarize design patterns in Java
                  [访问者模式](src/main/java/com/github/pattern/visitor)、[迭代器模式](src/main/java/com/github/pattern/iterator)、
                  [观察者模式](src/main/java/com/github/pattern/observer)、[中介模式](src/main/java/com/github/pattern/mediator)、
                  [备忘录模式](src/main/java/com/github/pattern/memento)、  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   [解释器模式](src/main/java/com/github/pattern/interpreter)、[状态模式](src/main/java/com/github/pattern/state)、
                   [策略模式](src/main/java/com/github/pattern/strategy)、[责任链模式](src/main/java/com/github/pattern/responsibility)      
-#Design Principles
+# Design Principles
 - **[单一职责原则](src/main/resources/principle.txt)**
 - **[接口隔离原则](src/main/resources/principle.txt)**
 - **[依赖倒转原则](src/main/resources/principle.txt)**
@@ -32,6 +32,6 @@ Learn and summarize design patterns in Java
 - **[迪米特法则](src/main/resources/principle.txt)**
 - **[合成复用原则](src/main/resources/principle.txt)**
 
-#UML
+# UML
 **依赖、关联、聚合、组合、泛化、实现**
 
