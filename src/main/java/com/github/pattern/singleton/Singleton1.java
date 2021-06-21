@@ -4,7 +4,6 @@ package com.github.pattern.singleton;
  * 单例模式1-（饿汉式，线程安全，静态常量）
  *
  * @author echils
- * @since 2020-01-05 21:31:01
  */
 public class Singleton1 {
 

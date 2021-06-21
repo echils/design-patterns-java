@@ -7,7 +7,6 @@ import com.github.pattern.adapter.classadapter.HouseholdVoltage;
  * 对象适配
  *
  * @author echils
- * @since 2019-06-17 10:52:11
  */
 public class VoltageObjectAdapter implements HouseholdVoltage {
 

@@ -4,7 +4,6 @@ package com.github.pattern.state;
  * 抽奖机状态定义
  *
  * @author echils
- * @since 2020-01-16 23:09:17
  */
 public interface State {
 

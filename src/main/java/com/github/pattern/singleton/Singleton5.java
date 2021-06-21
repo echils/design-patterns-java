@@ -4,7 +4,6 @@ package com.github.pattern.singleton;
  * 单例模式5-（懒汉式，线程不安全，同步代码块）
  *
  * @author echils
- * @since 2020-01-05 21:31:01
  */
 public class Singleton5 {
 

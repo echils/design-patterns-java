@@ -4,7 +4,6 @@ package com.github.pattern.template;
  * 饺子类定义
  *
  * @author echils
- * @since 2020-01-01 17:20:03
  */
 public abstract class Dumplings {
 

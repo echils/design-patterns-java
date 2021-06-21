@@ -6,7 +6,6 @@ import java.util.Iterator;
  * EastAllStarIterator
  *
  * @author echils
- * @since 2020-01-05 20:53:26
  */
 public class EastAllStarIterator implements Iterator {
 

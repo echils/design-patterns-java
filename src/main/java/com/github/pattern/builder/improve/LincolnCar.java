@@ -4,7 +4,6 @@ package com.github.pattern.builder.improve;
  * 林肯车建造者
  *
  * @author echils
- * @since 2019-06-19 22:54:36
  */
 public class LincolnCar implements ICarBuilder {
 

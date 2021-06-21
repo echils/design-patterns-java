@@ -10,7 +10,6 @@ import lombok.Data;
  * 可以采用定义默认行为的形式声明方法
  *
  * @author echils
- * @since 2020-01-01 21:54:26
  */
 @Data
 public abstract class Component {

@@ -8,7 +8,6 @@ import com.github.pattern.factory.WilsonBasketball;
  * 篮球订购商
  *
  * @author echils
- * @since 2020-01-02 21:32:37
  */
 public class OldBasketballOrder implements IBasketballOrder {
 

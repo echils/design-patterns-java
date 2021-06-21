@@ -12,7 +12,6 @@ import org.junit.jupiter.api.Test;
  * 建造者模式测试类
  *
  * @author echils
- * @since 2019-06-19 22:48:11
  */
 public class BuilderTest {
 

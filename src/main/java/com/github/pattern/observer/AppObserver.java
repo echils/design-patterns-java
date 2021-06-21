@@ -4,7 +4,6 @@ package com.github.pattern.observer;
  * 具体的观察实现类（手机应用）
  *
  * @author echils
- * @since 2020-01-05 22:29:18
  */
 public class AppObserver implements Observer {
 

@@ -7,7 +7,6 @@ import com.github.pattern.factory.SpaldingBasketball;
  * 斯伯丁工厂
  *
  * @author echils
- * @since 2020-01-02 21:39:47
  */
 public class SpaldingFactory implements IFactory {
 

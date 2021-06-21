@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 模板模式测试类
  *
  * @author echils
- * @since 2020-01-01 17:31:03
  */
 public class TemplateTest {
 

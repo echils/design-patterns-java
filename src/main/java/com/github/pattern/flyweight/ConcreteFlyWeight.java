@@ -4,7 +4,6 @@ package com.github.pattern.flyweight;
  * 具体的享元类
  *
  * @author echils
- * @since 2021-06-17 16:24:50
  */
 public class ConcreteFlyWeight implements IFlyWeight {
 

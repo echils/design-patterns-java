@@ -8,7 +8,6 @@ import com.github.pattern.factory.WilsonBasketball;
  * 简单工厂模式
  *
  * @author echils
- * @since 2020-01-02 21:33:03
  */
 public class BasketballSimpleFactory {
 

@@ -6,7 +6,6 @@ import java.lang.reflect.Proxy;
  * 动态代理
  *
  * @author echils
- * @since 2020-01-05 22:30:02
  */
 public class PersonDynamicProxy {
 

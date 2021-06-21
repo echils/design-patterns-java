@@ -4,7 +4,6 @@ package com.github.pattern.visitor;
  * 应用B
  *
  * @author echils
- * @since 2020-01-02 23:35:58
  */
 public class AppB extends App {
 

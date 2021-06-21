@@ -1,10 +1,9 @@
 package com.github.pattern.strategy;
 
 /**
- * FlyHighBehavior
+ * FlyLowBehavior
  *
  * @author echils
- * @since 2020-01-18 14:37:15
  */
 public class FlyLowBehavior implements IFlyBehavior {
     @Override

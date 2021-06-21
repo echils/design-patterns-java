@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 访问者模式测试类
  *
  * @author echils
- * @since 2020-01-02 23:45:58
  */
 public class VisitorTest {
 

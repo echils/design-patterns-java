@@ -4,7 +4,6 @@ package com.github.pattern.commond;
  * 命令定义
  *
  * @author echils
- * @since 2020-01-01 20:57:01
  */
 public interface ICommand {
 

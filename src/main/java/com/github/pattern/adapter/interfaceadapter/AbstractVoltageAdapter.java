@@ -4,7 +4,6 @@ package com.github.pattern.adapter.interfaceadapter;
  * 实现所有接接口，但是是空实现，留给使用时重写
  *
  * @author echils
- * @since 2019-06-17 10:49:35
  */
 public abstract class AbstractVoltageAdapter implements VoltageAll {
 

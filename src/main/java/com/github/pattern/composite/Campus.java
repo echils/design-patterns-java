@@ -7,7 +7,6 @@ import java.util.List;
  * 校区,每个校区有很多系
  *
  * @author echils
- * @since 2020-01-01 22:01:47
  */
 public class Campus extends Component {
 

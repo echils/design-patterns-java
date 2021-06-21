@@ -7,7 +7,6 @@ import java.util.List;
  * 西部全明星迭代器
  *
  * @author echils
- * @since 2020-01-05 20:53:26
  */
 public class WestAllStarIterator implements Iterator {
 

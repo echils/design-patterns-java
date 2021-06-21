@@ -4,7 +4,6 @@ package com.github.pattern.visitor;
  * 抽象访问者
  *
  * @author echils
- * @since 2020-01-02 23:32:03
  */
 public abstract class Visitor {
 

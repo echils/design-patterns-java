@@ -8,7 +8,6 @@ import java.util.Iterator;
  * 迭代器模式测试类
  *
  * @author echils
- * @since 2020-01-05 21:35:31
  */
 public class IteratorTest {
 

@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 策略模式测试类
  *
  * @author echils
- * @since 2020-01-18 14:51:45
  */
 public class StrategyTest {
 

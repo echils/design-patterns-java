@@ -7,7 +7,6 @@ import com.github.pattern.factory.IBasketballOrder;
  * 篮球订购商
  *
  * @author echils
- * @since 2020-01-02 21:33:14
  */
 public class SimpleBasketballOrder implements IBasketballOrder {
 

@@ -6,7 +6,6 @@ import java.util.Random;
  * 访问者A
  *
  * @author echils
- * @since 2020-01-05 15:13:35
  */
 public class VisitorA extends Visitor {
 

@@ -6,7 +6,6 @@ import com.github.pattern.commond.ICommandReceiver;
  * 灯光
  *
  * @author echils
- * @since 2020-01-01 21:09:05
  */
 public class Light implements ICommandReceiver {
 

@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 桥接模式测试类
  *
  * @author echils
- * @since 2019-06-18 18:48:11
  */
 public class BridgeTest {
 

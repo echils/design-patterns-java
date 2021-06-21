@@ -4,7 +4,6 @@ package com.github.pattern.facade;
  * 家庭影院定义
  *
  * @author echils
- * @since 2020-01-02 20:06:15
  */
 public class HomeFacade {
 

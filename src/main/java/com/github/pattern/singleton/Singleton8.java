@@ -5,7 +5,6 @@ package com.github.pattern.singleton;
  * 由于Java反序列化会重新创建新对象，则会破坏单例。如果必要，那么只能选择方式8来创建单例
  *
  * @author echils
- * @since 2020-01-05 21:31:01
  */
 public class Singleton8 {
 

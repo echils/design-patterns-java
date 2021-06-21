@@ -6,7 +6,6 @@ import java.util.Iterator;
  * 东部全明星队伍
  *
  * @author echils
- * @since 2020-01-05 21:24:55
  */
 public class EastAllStarTeam implements IAllStarTeam {
 

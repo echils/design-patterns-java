@@ -4,7 +4,6 @@ package com.github.pattern.builder.improve;
  * 车制造过程管理者（工程师）
  *
  * @author echils
- * @since 2019-06-19 22:53:25
  */
 public class CarEngineer {
 

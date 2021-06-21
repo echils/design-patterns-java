@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 状态模式测试类
  *
  * @author echils
- * @since 2020-01-18 13:49:55
  */
 public class StateTest {
 

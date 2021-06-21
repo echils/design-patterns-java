@@ -4,7 +4,6 @@ package com.github.pattern.bridge;
  * 网络银行
  *
  * @author echils
- * @since 2019-06-18 19:52:33
  */
 public class InternetBank extends Bank {
 

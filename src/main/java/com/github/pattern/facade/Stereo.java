@@ -4,7 +4,6 @@ package com.github.pattern.facade;
  * 音响
  *
  * @author echils
- * @since 2020-01-02 20:02:15
  */
 public class Stereo {
 

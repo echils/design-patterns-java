@@ -4,7 +4,6 @@ package com.github.pattern.state;
  * 提交抽奖券状态
  *
  * @author echils
- * @since 2020-01-18 12:23:20
  */
 public class SubmitTicketState implements State {
 

@@ -6,7 +6,6 @@ import com.github.pattern.commond.ICommand;
  * 打开电视命令
  *
  * @author echils
- * @since 2020-01-01 21:25:32
  */
 public class TvOnCommand implements ICommand {
 

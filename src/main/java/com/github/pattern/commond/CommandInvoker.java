@@ -4,7 +4,6 @@ package com.github.pattern.commond;
  * 命令调用程序（遥控器）
  *
  * @author echils
- * @since 2020-01-01 21:03:09
  */
 public class CommandInvoker {
 

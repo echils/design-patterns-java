@@ -10,7 +10,6 @@ import org.junit.jupiter.api.Test;
  * 适配器模式测试类
  *
  * @author echils
- * @since 2019-06-17 11:52:11
  */
 public class AdapterTest {
 

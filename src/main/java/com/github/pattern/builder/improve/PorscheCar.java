@@ -4,7 +4,6 @@ package com.github.pattern.builder.improve;
  * 保时捷建造者
  *
  * @author echils
- * @since 2019-06-19 22:54:41
  */
 public class PorscheCar implements ICarBuilder {
 

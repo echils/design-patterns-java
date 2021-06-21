@@ -4,7 +4,6 @@ package com.github.pattern.singleton;
  * 单例模式6-（双重校验，线程安全）
  *
  * @author echils
- * @since 2020-01-05 21:31:01
  */
 public class Singleton6 {
 

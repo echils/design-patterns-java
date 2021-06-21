@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 责任链模式测试类
  *
  * @author echils
- * @since 2020-01-18 19:09:22
  */
 public class ResponsibilityTest {
 

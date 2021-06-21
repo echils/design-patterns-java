@@ -4,7 +4,6 @@ package com.github.pattern.decorator;
  * 手机装饰器
  *
  * @author echils
- * @since 2020-01-01 23:15:06
  */
 public class PhoneDecorator implements Phone {
 

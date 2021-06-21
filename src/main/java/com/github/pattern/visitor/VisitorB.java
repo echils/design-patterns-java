@@ -4,7 +4,6 @@ package com.github.pattern.visitor;
  * 访问者B
  *
  * @author echils
- * @since 2020-01-02 23:39:13
  */
 public class VisitorB extends Visitor {
 

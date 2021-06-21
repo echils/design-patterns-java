@@ -6,7 +6,6 @@ import lombok.Data;
  * GamePlayer
  *
  * @author echils
- * @since 2020-01-12 18:11:51
  */
 @Data
 public class GamePlayer {

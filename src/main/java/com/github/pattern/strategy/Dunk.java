@@ -4,7 +4,6 @@ package com.github.pattern.strategy;
  * Dunk
  *
  * @author echils
- * @since 2020-01-18 14:33:55
  */
 public class Dunk {
 

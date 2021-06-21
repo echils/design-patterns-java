@@ -8,7 +8,6 @@ import java.util.List;
  * 西部全明星队
  *
  * @author echils
- * @since 2020-01-05 21:22:42
  */
 public class WestAllStarTeam implements IAllStarTeam {
 

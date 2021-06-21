@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 解释器模式测试类
  *
  * @author echils
- * @since 2020-01-14 22:28:32
  */
 public class InterpreterTest {
 

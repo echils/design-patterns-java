@@ -9,7 +9,6 @@ import java.util.List;
  * 适配器
  *
  * @author echils
- * @since 2019-06-17 11:35:11
  */
 public class HandleAdapter {
 

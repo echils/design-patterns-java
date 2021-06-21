@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 中介模式测试类
  *
  * @author echils
- * @since 2020-01-09 23:41:20
  */
 public class MediatorTest {
 

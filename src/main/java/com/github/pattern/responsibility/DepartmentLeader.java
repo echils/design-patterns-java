@@ -4,7 +4,6 @@ package com.github.pattern.responsibility;
  * 部门领导
  *
  * @author echils
- * @since 2020-01-18 15:32:28
  */
 public class DepartmentLeader extends Handler {
 

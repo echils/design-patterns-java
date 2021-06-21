@@ -4,7 +4,6 @@ package com.github.pattern.memento;
  * 存档内容
  *
  * @author echils
- * @since 2020-01-12 18:15:23
  */
 public class Memento {
 

@@ -4,7 +4,6 @@ package com.github.pattern.responsibility;
  * 抽象处理者
  *
  * @author echils
- * @since 2020-01-18 15:22:19
  */
 public abstract class Handler {
 

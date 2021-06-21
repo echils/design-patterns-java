@@ -9,7 +9,6 @@ import java.util.Map;
  * 存档管理器
  *
  * @author echils
- * @since 2020-01-12 21:32:45
  */
 public class Caretaker {
 

@@ -4,7 +4,6 @@ package com.github.pattern.state;
  * 抽奖活动实体类
  *
  * @author echils
- * @since 2020-01-18 12:24:44
  */
 public class Activity {
 

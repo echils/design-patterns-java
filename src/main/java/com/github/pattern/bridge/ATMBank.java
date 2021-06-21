@@ -4,7 +4,6 @@ package com.github.pattern.bridge;
  * ATM取款机
  *
  * @author echils
- * @since 2019-06-18 10:48:11
  */
 public class ATMBank extends Bank {
 

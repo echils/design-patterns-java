@@ -4,7 +4,6 @@ package com.github.pattern.state;
  * 抽奖活动结束状态
  *
  * @author echils
- * @since 2020-01-18 12:23:20
  */
 public class EndState implements State {
 

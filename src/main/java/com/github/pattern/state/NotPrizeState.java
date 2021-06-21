@@ -1,11 +1,9 @@
 package com.github.pattern.state;
 
-
 /**
  * 没有中奖状态
  *
  * @author echils
- * @since 2020-01-18 12:23:20
  */
 public class NotPrizeState implements State {
 

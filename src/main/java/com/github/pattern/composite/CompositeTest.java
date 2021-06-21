@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 组合模式测试类
  *
  * @author echils
- * @since 2020-01-01 22:02:15
  */
 public class CompositeTest {
 

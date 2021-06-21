@@ -7,7 +7,6 @@ import java.util.List;
  * 大学，大学一般有几个校区
  *
  * @author echils
- * @since 2020-01-01 21:59:52
  */
 public class University extends Component {
 

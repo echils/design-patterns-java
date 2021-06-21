@@ -4,7 +4,6 @@ package com.github.pattern.responsibility;
  * 组长
  *
  * @author echils
- * @since 2020-01-18 15:32:28
  */
 public class GroupLeader extends Handler {
 

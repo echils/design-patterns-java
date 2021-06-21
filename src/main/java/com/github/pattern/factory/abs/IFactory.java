@@ -6,7 +6,6 @@ import com.github.pattern.factory.IBasketball;
  * 抽象工厂
  *
  * @author echils
- * @since 2020-01-02 21:39:47
  */
 public interface IFactory {
 

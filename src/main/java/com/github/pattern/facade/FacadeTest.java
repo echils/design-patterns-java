@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 外观模式测试类
  *
  * @author echils
- * @since 2020-01-02 20:06:15
  */
 public class FacadeTest {
 

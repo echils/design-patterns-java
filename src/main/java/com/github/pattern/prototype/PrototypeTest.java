@@ -13,7 +13,6 @@ import org.junit.jupiter.api.Test;
  * 原型模式测试类
  *
  * @author echils
- * @since 2020-01-05 22:24:23
  */
 public class PrototypeTest {
 

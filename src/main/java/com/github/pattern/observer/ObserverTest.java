@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 观察者模式测试类
  *
  * @author echils
- * @since 2020-01-05 22:30:02
  */
 public class ObserverTest {
 

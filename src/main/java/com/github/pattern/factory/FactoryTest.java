@@ -12,7 +12,6 @@ import org.junit.jupiter.api.Test;
  * 工厂模式测试类
  *
  * @author echils
- * @since 2020-01-02 21:34:15
  */
 public class FactoryTest {
 

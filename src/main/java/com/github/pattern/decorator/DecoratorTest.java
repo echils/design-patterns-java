@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 装饰器模式测试类
  *
  * @author echils
- * @since 2020-01-01 23:15:15
  */
 public class DecoratorTest {
 

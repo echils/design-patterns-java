@@ -12,7 +12,6 @@ import org.junit.jupiter.api.Test;
  * 命令模式测试类
  *
  * @author echils
- * @since 2020-01-01 21:02:11
  */
 public class CommandTest {
 

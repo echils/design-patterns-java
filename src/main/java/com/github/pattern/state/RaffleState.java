@@ -7,7 +7,6 @@ import java.util.Random;
  * 抽奖进行中状态
  *
  * @author echils
- * @since 2020-01-18 12:23:20
  */
 public class RaffleState implements State {
 

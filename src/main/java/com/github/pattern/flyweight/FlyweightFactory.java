@@ -7,7 +7,6 @@ import java.util.concurrent.ConcurrentHashMap;
  * 享元工厂类
  *
  * @author echils
- * @since 2021-06-17 16:26:58
  */
 public class FlyweightFactory {
 

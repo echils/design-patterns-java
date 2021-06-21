@@ -4,7 +4,6 @@ package com.github.pattern.factory;
  * 篮球订购商基础类
  *
  * @author echils
- * @since 2020-01-02 21:31:45
  */
 public interface IBasketballOrder {
 

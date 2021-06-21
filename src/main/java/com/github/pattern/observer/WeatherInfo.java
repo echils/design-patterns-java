@@ -7,7 +7,6 @@ import java.util.List;
  * 天气预报中心
  *
  * @author echils
- * @since 2020-01-05 22:25:22
  */
 public class WeatherInfo implements Info {
 

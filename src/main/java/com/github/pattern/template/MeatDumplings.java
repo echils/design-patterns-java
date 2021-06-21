@@ -4,7 +4,6 @@ package com.github.pattern.template;
  * 肉饺子
  *
  * @author echils
- * @since 2020-01-01 17:25:45
  */
 public class MeatDumplings extends Dumplings {
 

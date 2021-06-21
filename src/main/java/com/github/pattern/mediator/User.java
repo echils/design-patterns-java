@@ -4,7 +4,6 @@ package com.github.pattern.mediator;
  * 用户
  *
  * @author echils
- * @since 2020-01-08 22:56:52
  */
 public class User {
 

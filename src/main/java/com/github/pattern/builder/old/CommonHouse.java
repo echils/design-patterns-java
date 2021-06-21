@@ -4,7 +4,6 @@ package com.github.pattern.builder.old;
  * 建造者模式测试类
  *
  * @author echils
- * @since 2019-06-19 22:49:11
  */
 public class CommonHouse extends AbstractHouse {
     @Override

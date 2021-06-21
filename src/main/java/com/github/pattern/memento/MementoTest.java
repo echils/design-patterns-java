@@ -6,7 +6,6 @@ import org.junit.jupiter.api.Test;
  * 备忘录模式测试类
  *
  * @author echils
- * @since 2020-01-12 22:02:03
  */
 public class MementoTest {
 
