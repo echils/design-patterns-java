@@ -13,7 +13,6 @@ public interface IFactory {
      * 篮球
      *
      * @param name
-     * @return
      */
     IBasketball createBasketball(String name);
 
@@ -21,7 +20,6 @@ public interface IFactory {
      * 护腕
      *
      * @param name
-     * @return
      */
     IWristband createWristbands(String name);
 

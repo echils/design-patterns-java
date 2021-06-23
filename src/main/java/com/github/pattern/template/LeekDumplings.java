@@ -21,7 +21,6 @@ public class LeekDumplings extends Dumplings {
     /**
      * 重写钩子刚发
      *
-     * @return
      */
     @Override
     public boolean addIngredients() {

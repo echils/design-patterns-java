@@ -20,7 +20,6 @@ public class FlyweightFactory {
      * 提供
      *
      * @param name 内部状态
-     * @return
      */
     public IFlyWeight apply(String name) {
         return flyWeightMap.computeIfAbsent(name, ConcreteFlyWeight::new);

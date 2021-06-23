@@ -43,7 +43,6 @@ public class GamePlayer {
     /**
      * 存档
      *
-     * @return
      */
     public Memento save() {
         return new Memento(level, damage, defense);

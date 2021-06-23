@@ -53,7 +53,6 @@ public class HandleAdapter {
      * 获取项目中所有的实现类
      *
      * @param clazz
-     * @return
      */
     public static List<Class<?>> getAllClassByInterface(Class clazz) {
         ArrayList<Class<?>> list = new ArrayList<>();
