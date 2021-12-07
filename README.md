@@ -20,7 +20,7 @@ Learn and summarize design patterns in Java
                  [访问者模式](src/main/java/com/github/pattern/visitor)、[迭代器模式](src/main/java/com/github/pattern/iterator)、
                  [观察者模式](src/main/java/com/github/pattern/observer)、[中介模式](src/main/java/com/github/pattern/mediator)、
                  [备忘录模式](src/main/java/com/github/pattern/memento)、  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
                   [解释器模式](src/main/java/com/github/pattern/interpreter)、[状态模式](src/main/java/com/github/pattern/state)、
                   [策略模式](src/main/java/com/github/pattern/strategy)、[责任链模式](src/main/java/com/github/pattern/responsibility)      
 # Design Principles
